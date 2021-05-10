@@ -1,0 +1,10 @@
+{
+  "words": [
+    "DITUS"
+  ],
+  "ignorePaths": [
+    "bin",
+    "obj",
+    ".vscode"
+  ]
+}
