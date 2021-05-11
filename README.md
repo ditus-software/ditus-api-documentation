@@ -1,5 +1,8 @@
 # Ditus.Api.Documentation
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![NuGet](https://img.shields.io/nuget/v/Ditus.Api.Documentation)](https://www.nuget.org/packages/Ditus.Api.Documentation)
+
 Ditus.Api.Documentation provides attributes with which to adorn your Web API end-points and method parameters and an end-point which generates documentation based on those attributes.
 
 ## Usage
